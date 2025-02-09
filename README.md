@@ -75,8 +75,7 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 
 <div align="center">
 
-![Login Panel](images/login_panel.png)
-![Signup Panel](images/signup.png)
+![Login Panel](images/login_panel.png) ![Signup Panel](images/signup.png)
 </div>
 
 ### 3. Captain Dashboard
