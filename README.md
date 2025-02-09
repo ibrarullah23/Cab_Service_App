@@ -3,14 +3,13 @@
 ## Overview
 This project is a **Cab Service Application** developed using **JavaFX** on **NetBeans**, with **Microsoft Access (ACCDB)** as the database, integrated via **UCanAccess**. The UI is enhanced with **FlatLaf** for a modern look. The application allows users to register as **Passengers** or **Captains**, book and accept rides, track ride history, and manage earnings. An **Admin Panel** provides an overview of rides, earnings, and user records.
 
+## UML Diagram
+A **UML class diagram** is included to illustrate the object-oriented design of the project, showing class relationships and interactions.
 
-## Tech Stack
-- **JavaFX** (for UI development)
-- **NetBeans** (IDE for development)
-- **Microsoft Access (ACCDB)** (Database)
-- **UCanAccess** (JDBC driver for database connectivity)
-- **FlatLaf** (Modern UI framework for JavaFX)
+<div align="center">
 
+![Splash Screen](images/splash_screen.png)
+</div>
 
 ## Object-Oriented Design Principles Used
 - **Encapsulation**: Data hiding is implemented in user details and ride management.
@@ -18,9 +17,6 @@ This project is a **Cab Service Application** developed using **JavaFX** on **Ne
 - **Polymorphism**: Different ride types with dynamic fare calculations.
 - **Abstraction**: High-level classes define behavior while implementation is handled in subclasses.
 
-
-## UML Diagram
-A **UML class diagram** is included to illustrate the object-oriented design of the project, showing class relationships and interactions.
 
 ## Features
 
@@ -113,6 +109,15 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 
 ![Admin Panel](images/admin_panel.png)
 </div>
+
+
+## Tech Stack
+- **JavaFX** (for UI development)
+- **NetBeans** (IDE for development)
+- **Microsoft Access (ACCDB)** (Database)
+- **UCanAccess** (JDBC driver for database connectivity)
+- **FlatLaf** (Modern UI framework for JavaFX)
+
 
 
 
