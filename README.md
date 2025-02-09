@@ -3,13 +3,6 @@
 ## Overview
 This project is a **Cab Service Application** developed using **JavaFX** on **NetBeans**, with **Microsoft Access (ACCDB)** as the database, integrated via **UCanAccess**. The UI is enhanced with **FlatLaf** for a modern look. The application allows users to register as **Passengers** or **Captains**, book and accept rides, track ride history, and manage earnings. An **Admin Panel** provides an overview of rides, earnings, and user records.
 
-## UML Diagram
-A **UML class diagram** is included to illustrate the object-oriented design of the project, showing class relationships and interactions.
-
-<div align="center">
-
-![Splash Screen](images/uml.jpg)
-</div>
 
 ## Object-Oriented Design Principles Used
 - **Encapsulation**: Data hiding is implemented in user details and ride management.
@@ -40,6 +33,13 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 - View total profit earned.
 - Manage and monitor all registered users (*Passengers & Captains*).
 
+## UML Diagram
+A **UML class diagram** is included to illustrate the object-oriented design of the project, showing class relationships and interactions.
+
+<div align="center">
+
+![Splash Screen](images/uml.jpg)
+</div>
 
 
 ## Ride Fare Calculation
@@ -55,8 +55,6 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 | **Premium**    | 23              | 135             |
 
 </div>
-
-
 
 
 ## Screens and Functional Flow
@@ -127,9 +125,7 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 - Enhancing security features with **encrypted credentials**.
 - Introducing **multiple payment options** (Credit Card, Wallets, etc.).
 
-## Contributors
-- **[Your Name]** (Developer)
-
-
+## Developed By
+- **[Ibrar Ullah](https://github.com/ibrarullah23)** (Developer)
 
 
