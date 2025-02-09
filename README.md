@@ -8,7 +8,7 @@ A **UML class diagram** is included to illustrate the object-oriented design of 
 
 <div align="center">
 
-![Splash Screen](images/splash_screen.png)
+![Splash Screen](images/uml.jpg)
 </div>
 
 ## Object-Oriented Design Principles Used
